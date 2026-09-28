@@ -1,0 +1,248 @@
+[
+  {
+    "file": "Figure_1C_cluster.R",
+    "bytes_before": 5857,
+    "bytes_after": 5177,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_1D_cell_ratio.R",
+    "bytes_before": 8791,
+    "bytes_after": 9118,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_1E_dotplot.R",
+    "bytes_before": 3455,
+    "bytes_after": 3501,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_1F_SNN.R",
+    "bytes_before": 10756,
+    "bytes_after": 10935,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_2B_cluster.R",
+    "bytes_before": 8099,
+    "bytes_after": 8054,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_2C_cell_ratio.R",
+    "bytes_before": 4806,
+    "bytes_after": 5121,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_2D_heatmap.R",
+    "bytes_before": 6847,
+    "bytes_after": 7046,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_2E_2F_monocle3.R",
+    "bytes_before": 8264,
+    "bytes_after": 8519,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_2G_GO.R",
+    "bytes_before": 6327,
+    "bytes_after": 6482,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_2G_GO_genes.R",
+    "bytes_before": 8326,
+    "bytes_after": 8371,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_2G_expression_pattern.R",
+    "bytes_before": 9264,
+    "bytes_after": 9419,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_2H_S3A_cell_phase_assignment.R",
+    "bytes_before": 8616,
+    "bytes_after": 8941,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_2I_line_plot.R",
+    "bytes_before": 8258,
+    "bytes_after": 8484,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_2J_heatmap.R",
+    "bytes_before": 3757,
+    "bytes_after": 3957,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_3B_cluster.ipynb",
+    "bytes_before": 36058949,
+    "bytes_after": 8101,
+    "language": "python",
+    "cells_before": 20,
+    "cells_after": 20,
+    "outputs_removed": 90
+  },
+  {
+    "file": "Figure_3C_tangram.R",
+    "bytes_before": 4651,
+    "bytes_after": 4651,
+    "portable_path_config_added": false
+  },
+  {
+    "file": "Figure_3D_3E_S6A.R",
+    "bytes_before": 8404,
+    "bytes_after": 8632,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_3G_S7C_classify_niches.py",
+    "bytes_before": 5631,
+    "bytes_after": 5626,
+    "portable_path_config_added": false
+  },
+  {
+    "file": "Figure_3G_S7C_export_spatial_metadata.R",
+    "bytes_before": 2144,
+    "bytes_after": 2524,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_3G_S7C_plot.R",
+    "bytes_before": 4872,
+    "bytes_after": 4872,
+    "portable_path_config_added": false
+  },
+  {
+    "file": "Figure_3H_heatmap.R",
+    "bytes_before": 6578,
+    "bytes_after": 6665,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_4B_build_source_data.R",
+    "bytes_before": 4485,
+    "bytes_after": 4484,
+    "portable_path_config_added": false
+  },
+  {
+    "file": "Figure_4B_plot_heatmap.R",
+    "bytes_before": 3646,
+    "bytes_after": 3645,
+    "portable_path_config_added": false
+  },
+  {
+    "file": "Figure_4C_mapping.R",
+    "bytes_before": 17419,
+    "bytes_after": 17685,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_4D_S9F_heatmap.R",
+    "bytes_before": 10632,
+    "bytes_after": 10526,
+    "portable_path_config_added": false
+  },
+  {
+    "file": "Figure_4E_DS-DD.R",
+    "bytes_before": 9815,
+    "bytes_after": 9762,
+    "portable_path_config_added": false
+  },
+  {
+    "file": "Figure_S2A_qc.R",
+    "bytes_before": 1863,
+    "bytes_after": 2205,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_S2B_correlation.R",
+    "bytes_before": 2870,
+    "bytes_after": 2719,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_S2C_cluster.R",
+    "bytes_before": 10215,
+    "bytes_after": 7852,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_S2D_cell_ratio.R",
+    "bytes_before": 2904,
+    "bytes_after": 2847,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_S2E_correlation.R",
+    "bytes_before": 10312,
+    "bytes_after": 10564,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_S7B_in_situ_expression.ipynb",
+    "bytes_before": 1299750,
+    "bytes_after": 4909,
+    "language": "python",
+    "cells_before": 16,
+    "cells_after": 11,
+    "outputs_removed": 19
+  },
+  {
+    "file": "Figure_S7D.R",
+    "bytes_before": 16966,
+    "bytes_after": 17211,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_S7F_TFNA.R",
+    "bytes_before": 31830,
+    "bytes_after": 30586,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_S9A_qc.R",
+    "bytes_before": 2452,
+    "bytes_after": 2488,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_S9B_cluster.ipynb",
+    "bytes_before": 109728,
+    "bytes_after": 46532,
+    "language": "R",
+    "cells_before": 78,
+    "cells_after": 62,
+    "outputs_removed": 66
+  },
+  {
+    "file": "Figure_S9D_cell_ratio.R",
+    "bytes_before": 2536,
+    "bytes_after": 2595,
+    "portable_path_config_added": true
+  },
+  {
+    "file": "Figure_S9D_rds.ipynb",
+    "bytes_before": 583681,
+    "bytes_after": 32049,
+    "language": "R",
+    "cells_before": 60,
+    "cells_after": 40,
+    "outputs_removed": 56
+  },
+  {
+    "file": "Figure_S9E_mapping.R",
+    "bytes_before": 15312,
+    "bytes_after": 15530,
+    "portable_path_config_added": true
+  }
+]
